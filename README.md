@@ -60,6 +60,6 @@ If you're reviewing this as part of my portfolio or hiring process, feel free to
 
 - **Name**: Abdelrahman Ibrahim  
 - **Email**: [abdelrahmanibrahimm1998@gmail.com]  
-- **LinkedIn**: [linkedin.com/in/your-profile]  
+- **LinkedIn**:(https://www.linkedin.com/in/abdelrahman-ibrahim-4a601a378/) 
 - **GitHub**: [https://github.com/abdelrahmanahmedd1998]
 
